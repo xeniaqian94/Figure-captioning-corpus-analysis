@@ -4,7 +4,6 @@ The repository for the paper "A Formative Study on Designing Accurate and Natura
 # Table of Contents
  * Repository Structure
  * Contacts
- * Citation
 
 # Repository Structure
 `corpus` is the directory that contains the model answers and figures.
