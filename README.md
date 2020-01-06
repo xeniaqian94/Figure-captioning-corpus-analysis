@@ -2,13 +2,17 @@
 The repository for the paper "A Formative Study on Designing Accurate and Natural Figure Captioning Systems". 
 
 # Table of Contents
- * Repository Structure
+ * Resources
  * Contacts
 
-# Repository Structure
-`corpus` is the directory that contains the model answers and figures.
+# Resources
+`corpus` is the directory that contains a `figures` directory and a `IELTS-crawled-corpus.json` file. 
 
-`annotations` is the directory that contains the annotation json1 files from the nine annotators. 
+The `figures` directory contains figures in `.gif` or `.png` format.
+
+The `IELTS-crawled-corpus.json` contains 95 model answers, where the last 20 answers are commonly annotated by all annotators.
+
+`annotations` is the directory that contains the annotation `.json1` files from the nine annotators. Each line is the annotation for one model answer. 
 
 # Contacts
 Please send any question to this email xinq@umd.edu.
