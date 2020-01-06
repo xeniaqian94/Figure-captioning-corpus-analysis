@@ -1,6 +1,17 @@
 # Figure Captioning Corpus Analysis
-A repository on the corpus analysis for the paper "Design Considerations for Accurate and Natural Figure Captioning Systems". 
+The repository for the paper "A Formative Study on Designing Accurate and Natural FigureCaptioning Systems". 
 
-## Table of Contents
+# Table of Contents
+ * Repository Structure
+ * Contacts
+ * Citation
+
+# Repository Structure
+`corpus` is the directory that contains the model answers and figures.
+`annotations` is the directory that contains the annotation json1 files from the nine annotators. 
+
+# Contacts
+Please send any question to this email xinq@umd.edu.
+
 
 
