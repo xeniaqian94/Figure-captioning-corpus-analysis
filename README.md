@@ -6,9 +6,9 @@ The repository for the paper "A Formative Study on Designing Accurate and Natura
  * Contacts
 
 # Resources
-`corpus` is the directory that contains a `figures` directory and a `IELTS-crawled-corpus.json` file. 
+`corpus` is the directory that contains a directory named `figures` and a file named `IELTS-crawled-corpus.json`. 
 
-The `figures` directory contains figures in `.gif` or `.png` format.
+The `figures` directory contains figures in the `.gif` or `.png` format.
 
 The `IELTS-crawled-corpus.json` contains 95 model answers, where the last 20 answers are commonly annotated by all annotators.
 
