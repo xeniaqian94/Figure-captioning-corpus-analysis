@@ -1,5 +1,5 @@
 ## Figure Captioning Corpus Analysis
-The repository for the paper "A Formative Study on Designing Accurate and Natural Figure Captioning Systems". 
+The repository for the paper ["A Formative Study on Designing Accurate and Natural Figure Captioning Systems"](https://dl.acm.org/doi/abs/10.1145/3334480.3382946) (CHI LBW '20).
 
 ### Table of Contents
  * Resources
