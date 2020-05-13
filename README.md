@@ -14,9 +14,9 @@ The `IELTS-crawled-corpus.json` contains 95 model answers, where the last 20 ans
 
 `annotations` is the directory that contains the annotation `.json1` files from the nine annotators. Each line is the annotation for one model answer. 
 
-### Current Effort
+### Current Effort (May 13, 2020)
 
-(May 13, 2020) As noted in our paper, we will be releasing a figure captioning benchmark dataset for the research community. More to come soon.   
+At the end of this paper, we noted to release a figure captioning benchmark dataset for the research community. More to come soon in a different repository.  
 
 ### Contacts
 For any question or feedback, please reach Xin at [xinq@umd.edu](mailto:xinq@umd.edu)!
